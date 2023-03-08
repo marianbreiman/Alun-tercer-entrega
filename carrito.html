@@ -16,16 +16,17 @@
     <link rel="stylesheet" href="./css/main.css">
 </head>
 <body>
-
+    <div class="alert">
+        <div class="container">
+          <p class="alert-text">Descuento para todos del 10%</p>
+        </div>
+      </div>
     <div class="wrapper">
-        <div class="alert">
-            <div class="container">
-              <p class="alert-text">Descuento para todos del 10%</p>
-            </div>
-          </div>
+
       
         <header class="header-mobile">
-         <a href="./index.html" class="arbol">  <i class="bi bi-tree"></i>
+         <a href="./index.html" style="display: flex;">  
+            <i class="bi bi-tree"></i>
           <div>  <h1>Alun</h1>
             <h6>100% Natural</h6></div></a> 
             <button class="open-menu" id="open-menu">
@@ -37,25 +38,37 @@
                 <i class="bi bi-x"></i>
             </button>
             <header>
+                <a href="./index.html" style="display: flex;">  
                 <i class="bi bi-tree"></i>
-             <div> <h1>Alun</h1>
+               <div> <h1>Alun</h1>
               <h6>100% Natural</h6>
-            </div>
+            </div> </a>
             </header>
             <nav>
-                <ul>
+                <ul class="menu">
                     <li>
                         <a class="boton-menu boton-volver" href="./index.html">
                             <i class="bi bi-arrow-return-left"></i> Seguir comprando
                         </a>
                     </li>
-                    <li>
-                        <a class="boton-menu boton-carrito active" href="./carrito.html">
-                            <i class="bi bi-cart-fill"></i> Carrito
-                        </a>
-                    </li>
+                   
+
                 </ul>
             </nav>
+
+            <nav>
+                <ul class="menu">
+            <li>
+                <a class="boton-menu boton-carrito" href="./carrito.html">
+                    <i class="bi bi-cart-fill"></i> Carrito <span id="numerito" class="numerito">0</span>
+                </a>
+            </li>
+                </ul>
+            </nav>
+
+
+        </aside>
+           
         </aside>
         <main>
             <h2 class="titulo-principal">Carrito</h2>

@@ -87,7 +87,7 @@ if (productosEnCarritoLS) {
 function agregarAlCarrito(e) {
 
     Toastify({
-        text: "Producto agregado",
+        text: "El producto se agrego al carrito de compras",
         duration: 3000,
         close: true,
         gravity: "top", // `top` or `bottom`
@@ -97,11 +97,13 @@ function agregarAlCarrito(e) {
           background: "linear-gradient(to right, #005c42, #83c5be)",
           borderRadius: "2rem",
           textTransform: "uppercase",
-          fontSize: "1rem"
+          fontSize: "1rem",
+          
+        
         },
         offset: {
-            x: '2.5rem', // horizontal axis - can be a number or a string indicating unity. eg: '2em'
-            y: '2.5rem' // vertical axis - can be a number or a string indicating unity. eg: '2em'
+            x: '2rem', // horizontal axis - can be a number or a string indicating unity. eg: '2em'
+            y: '10rem' // vertical axis - can be a number or a string indicating unity. eg: '2em'
           },
         onClick: function(){} // Callback after click
       }).showToast();
