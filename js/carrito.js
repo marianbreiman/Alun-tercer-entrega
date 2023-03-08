@@ -73,21 +73,23 @@ function actualizarBotonesEliminar() {
 
 function eliminarDelCarrito(e) {
     Toastify({
-        text: "Producto eliminado",
+        text: "El producto se elimino del carrito de compras",
         duration: 3000,
         close: true,
         gravity: "top", // `top` or `bottom`
         position: "right", // `left`, `center` or `right`
         stopOnFocus: true, // Prevents dismissing of toast on hover
         style: {
-          background: "linear-gradient(to right, #4b33a8, #785ce9)",
+          background: "linear-gradient(to right, #005c42, #83c5be)",
           borderRadius: "2rem",
           textTransform: "uppercase",
-          fontSize: ".75rem"
+          fontSize: "1rem",
+          
+        
         },
         offset: {
-            x: '1.5rem', // horizontal axis - can be a number or a string indicating unity. eg: '2em'
-            y: '1.5rem' // vertical axis - can be a number or a string indicating unity. eg: '2em'
+            x: '2rem', // horizontal axis - can be a number or a string indicating unity. eg: '2em'
+            y: '10rem' // vertical axis - can be a number or a string indicating unity. eg: '2em'
           },
         onClick: function(){} // Callback after click
       }).showToast();
