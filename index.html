@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alunshop</title>
+  <!-- 
+    - favicon
+  -->
+  <link rel="shortcut icon" href="./favicon.svg" type="image/svg+xml">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    <link rel="stylesheet" type="text/css" href="//fonts.googleapis.com/css?family=Nunito" />
+    <link rel="stylesheet" href="./css/main.css">
+</head>
+<body>
+    <div class="alert">
+        <div class="container">
+          <p class="alert-text">Descuento para todos del 10%</p>
+        </div>
+      </div>
+    <div class="wrapper">
+
+      
+        <header class="header-mobile">
+         <a href="./index.html" style="display: flex;">  
+            <i class="bi bi-tree"></i>
+          <div>  <h1>Alun</h1>
+            <h6>100% Natural</h6></div></a> 
+            <button class="open-menu" id="open-menu">
+                <i class="bi bi-list"></i>
+            </button>
+        </header>
+        <aside>
+            <button class="close-menu" id="close-menu">
+                <i class="bi bi-x"></i>
+            </button>
+            <header>
+                <a href="./index.html" style="display: flex;">  
+                <i class="bi bi-tree"></i>
+               <div> <h1>Alun</h1>
+              <h6>100% Natural</h6>
+            </div> </a>
+            </header>
+            <nav>
+                <ul class="menu">
+                    <li>
+                        <button id="todos" class="boton-menu boton-categoria active">Todos los productos</button>
+                    </li>
+                    <li>
+                        <button id="Cremas" class="boton-menu boton-categoria">Cremas</button>
+                    </li>
+                    <li>
+                        <button id="Geles" class="boton-menu boton-categoria">Geles</button>
+                    </li>
+                    <li>
+                        <button id="pantalones" class="boton-menu boton-categoria">Otros</button>
+                    </li>
+
+                </ul>
+            </nav>
+
+            <nav>
+                <ul class="menu">
+            <li>
+                <a class="boton-menu boton-carrito" href="./carrito.html">
+                    <i class="bi bi-cart-fill"></i> Carrito <span id="numerito" class="numerito">0</span>
+                </a>
+            </li>
+                </ul>
+            </nav>
+
+
+        </aside>
+        <main>
+            <h2 class="titulo-principal" id="titulo-principal">Todos los productos</h2>
+            <div id="contenedor-productos" class="contenedor-productos">
+                <!-- Esto se va a rellenar con JS -->
+            </div>
+        </main>
+    </div>
+    
+
+
+
+    
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="./js/main.js"></script>
+    <script src="./js/menu.js"></script>
+</body>
+</html>

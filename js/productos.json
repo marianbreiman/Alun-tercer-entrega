@@ -1,0 +1,182 @@
+[
+    {
+        "id": "Crema-01",
+        "titulo": "Crema 01",
+        "imagen": "./img/crema/01.jpg",
+        "categoria": {
+            "nombre": "Cremas",
+            "id": "Cremas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Crema-02",
+        "titulo": "Crema 02",
+        "imagen": "./img/crema/02.jpg",
+        "categoria": {
+            "nombre": "Cremas",
+            "id": "Cremas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Crema-03",
+        "titulo": "Crema 03",
+        "imagen": "./img/crema/03.jpg",
+        "categoria": {
+            "nombre": "Cremas",
+            "id": "Cremas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Crema-04",
+        "titulo": "Crema 04",
+        "imagen": "./img/crema/04.jpg",
+        "categoria": {
+            "nombre": "Cremas",
+            "id": "Cremas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Crema-05",
+        "titulo": "Crema 05",
+        "imagen": "./img/crema/05.jpg",
+        "categoria": {
+            "nombre": "Cremas",
+            "id": "Cremas"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Gel-01",
+        "titulo": "Gel 01",
+        "imagen": "./img/Geles/01.jpg",
+        "categoria": {
+            "nombre": "Geles",
+            "id": "Geles"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Gel-02",
+        "titulo": "Gel 02",
+        "imagen": "./img/Geles/02.jpg",
+        "categoria": {
+            "nombre": "Geles",
+            "id": "Geles"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Gel-03",
+        "titulo": "Gel 03",
+        "imagen": "./img/Geles/03.jpg",
+        "categoria": {
+            "nombre": "Geles",
+            "id": "Geles"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Gel-04",
+        "titulo": "Gel 04",
+        "imagen": "./img/Geles/04.jpg",
+        "categoria": {
+            "nombre": "Geles",
+            "id": "Geles"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Gel-05",
+        "titulo": "Gel 05",
+        "imagen": "./img/Geles/05.jpg",
+        "categoria": {
+            "nombre": "Geles",
+            "id": "Geles"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Gel-06",
+        "titulo": "Gel 06",
+        "imagen": "./img/Geles/06.jpg",
+        "categoria": {
+            "nombre": "Geles",
+            "id": "Geles"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Gel-07",
+        "titulo": "Gel 07",
+        "imagen": "./img/Geles/07.jpg",
+        "categoria": {
+            "nombre": "Geles",
+            "id": "Geles"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Gel-08",
+        "titulo": "Gel 08",
+        "imagen": "./img/Geles/08.jpg",
+        "categoria": {
+            "nombre": "Geles",
+            "id": "Geles"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "Pantalón 01",
+        "imagen": "./img/pantalones/01.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Pantalón 02",
+        "imagen": "./img/pantalones/02.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-03",
+        "titulo": "Pantalón 03",
+        "imagen": "./img/pantalones/03.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-04",
+        "titulo": "Pantalón 04",
+        "imagen": "./img/pantalones/04.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "pantalon-05",
+        "titulo": "Pantalón 05",
+        "imagen": "./img/pantalones/05.jpg",
+        "categoria": {
+            "nombre": "Pantalones",
+            "id": "pantalones"
+        },
+        "precio": 1000
+    }
+]
