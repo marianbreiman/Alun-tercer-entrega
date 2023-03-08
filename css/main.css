@@ -54,7 +54,7 @@
   }
 
   header {
-    background-color: var(--clr-primary);
+    background-color: var(--clr-main);
     color: var(--clr-white);
     text-align: center;
     position: relative;

@@ -2,7 +2,7 @@
     {
         "id": "Crema-01",
         "titulo": "Crema 01",
-        "imagen": "./img/crema/01.jpg",
+        "imagen": "./img/Crema/01.jpg",
         "categoria": {
             "nombre": "Cremas",
             "id": "Cremas"
@@ -12,7 +12,7 @@
     {
         "id": "Crema-02",
         "titulo": "Crema 02",
-        "imagen": "./img/crema/02.jpg",
+        "imagen": "./img/Crema/02.jpg",
         "categoria": {
             "nombre": "Cremas",
             "id": "Cremas"
@@ -22,7 +22,7 @@
     {
         "id": "Crema-03",
         "titulo": "Crema 03",
-        "imagen": "./img/crema/03.jpg",
+        "imagen": "./img/Crema/03.jpg",
         "categoria": {
             "nombre": "Cremas",
             "id": "Cremas"
@@ -32,7 +32,7 @@
     {
         "id": "Crema-04",
         "titulo": "Crema 04",
-        "imagen": "./img/crema/04.jpg",
+        "imagen": "./img/Crema/04.jpg",
         "categoria": {
             "nombre": "Cremas",
             "id": "Cremas"
@@ -42,7 +42,7 @@
     {
         "id": "Crema-05",
         "titulo": "Crema 05",
-        "imagen": "./img/crema/05.jpg",
+        "imagen": "./img/Crema/05.jpg",
         "categoria": {
             "nombre": "Cremas",
             "id": "Cremas"
