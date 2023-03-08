@@ -11,6 +11,7 @@ fetch("./js/productos.json")
 const contenedorProductos = document.querySelector("#contenedor-productos");
 const botonesCategorias = document.querySelectorAll(".boton-categoria");
 const tituloPrincipal = document.querySelector("#titulo-principal");
+const descripcion = document.querySelector("#decripcion");
 let botonesAgregar = document.querySelectorAll(".producto-agregar");
 const numerito = document.querySelector("#numerito");
 
@@ -33,6 +34,7 @@ function cargarProductos(productosElegidos) {
             <div class="producto-detalles">
                 <h3 class="producto-titulo">${producto.titulo}</h3>
                 <p class="producto-precio">$${producto.precio}</p>
+                <p class="producto-descripcion">${producto.descripcion}</p>
                 <button class="producto-agregar" id="${producto.id}">Agregar</button>
             </div>
         `;
@@ -92,14 +94,14 @@ function agregarAlCarrito(e) {
         position: "right", // `left`, `center` or `right`
         stopOnFocus: true, // Prevents dismissing of toast on hover
         style: {
-          background: "linear-gradient(to right, #1c2fab, #5cbce9)",
+          background: "linear-gradient(to right, #005c42, #83c5be)",
           borderRadius: "2rem",
           textTransform: "uppercase",
-          fontSize: ".75rem"
+          fontSize: "1rem"
         },
         offset: {
-            x: '1.5rem', // horizontal axis - can be a number or a string indicating unity. eg: '2em'
-            y: '1.5rem' // vertical axis - can be a number or a string indicating unity. eg: '2em'
+            x: '2.5rem', // horizontal axis - can be a number or a string indicating unity. eg: '2em'
+            y: '2.5rem' // vertical axis - can be a number or a string indicating unity. eg: '2em'
           },
         onClick: function(){} // Callback after click
       }).showToast();

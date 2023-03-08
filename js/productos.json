@@ -7,7 +7,8 @@
             "nombre": "Cremas",
             "id": "Cremas"
         },
-        "precio": 1000
+        "precio": 1000,
+        "descripcion": "Esto es una decripción del producto que se esta mostrando"
     },
     {
         "id": "Crema-02",
@@ -17,7 +18,8 @@
             "nombre": "Cremas",
             "id": "Cremas"
         },
-        "precio": 1000
+        "precio": 1000,
+        "descripcion": "Esto es una decripción del producto que se esta mostrando"
     },
     {
         "id": "Crema-03",
@@ -27,7 +29,8 @@
             "nombre": "Cremas",
             "id": "Cremas"
         },
-        "precio": 1000
+        "precio": 1000,
+        "descripcion": "Esto es una decripción del producto que se esta mostrando"
     },
     {
         "id": "Crema-04",
@@ -37,7 +40,8 @@
             "nombre": "Cremas",
             "id": "Cremas"
         },
-        "precio": 1000
+        "precio": 1000,
+        "descripcion": "Esto es una decripción del producto que se esta mostrando"
     },
     {
         "id": "Crema-05",
@@ -47,7 +51,8 @@
             "nombre": "Cremas",
             "id": "Cremas"
         },
-        "precio": 1000
+        "precio": 1000,
+        "descripcion": "Esto es una decripción del producto que se esta mostrando"
     },
     {
         "id": "Gel-01",
@@ -57,7 +62,8 @@
             "nombre": "Geles",
             "id": "Geles"
         },
-        "precio": 1000
+        "precio": 1000,
+        "descripcion": "Esto es una decripción del producto que se esta mostrando"
     },
     {
         "id": "Gel-02",
@@ -67,7 +73,8 @@
             "nombre": "Geles",
             "id": "Geles"
         },
-        "precio": 1000
+        "precio": 1000,
+        "descripcion": "Esto es una decripción del producto que se esta mostrando"
     },
     {
         "id": "Gel-03",
@@ -77,7 +84,8 @@
             "nombre": "Geles",
             "id": "Geles"
         },
-        "precio": 1000
+        "precio": 1000,
+        "descripcion": "Esto es una decripción del producto que se esta mostrando"
     },
     {
         "id": "Gel-04",
@@ -87,7 +95,8 @@
             "nombre": "Geles",
             "id": "Geles"
         },
-        "precio": 1000
+        "precio": 1000,
+        "descripcion": "Esto es una decripción del producto que se esta mostrando"
     },
     {
         "id": "Gel-05",
@@ -97,7 +106,8 @@
             "nombre": "Geles",
             "id": "Geles"
         },
-        "precio": 1000
+        "precio": 1000,
+        "descripcion": "Esto es una decripción del producto que se esta mostrando"
     },
     {
         "id": "Gel-06",
@@ -107,7 +117,8 @@
             "nombre": "Geles",
             "id": "Geles"
         },
-        "precio": 1000
+        "precio": 1000,
+        "descripcion": "Esto es una decripción del producto que se esta mostrando"
     },
     {
         "id": "Gel-07",
@@ -117,7 +128,8 @@
             "nombre": "Geles",
             "id": "Geles"
         },
-        "precio": 1000
+        "precio": 1000,
+        "descripcion": "Esto es una decripción del producto que se esta mostrando"
     },
     {
         "id": "Gel-08",
@@ -127,56 +139,62 @@
             "nombre": "Geles",
             "id": "Geles"
         },
-        "precio": 1000
+        "precio": 1000,
+        "descripcion": "Esto es una decripción del producto que se esta mostrando"
     },
     {
-        "id": "pantalon-01",
-        "titulo": "Pantalón 01",
-        "imagen": "./img/pantalones/01.jpg",
+        "id": "Otros-01",
+        "titulo": "Otros 01",
+        "imagen": "./img/Otros/01.jpg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Otros",
+            "id": "Otros"
         },
-        "precio": 1000
+        "precio": 1000,
+        "descripcion": "Esto es una decripción del producto que se esta mostrando"
     },
     {
-        "id": "pantalon-02",
-        "titulo": "Pantalón 02",
-        "imagen": "./img/pantalones/02.jpg",
+        "id": "Otros-02",
+        "titulo": "Otros 02",
+        "imagen": "./img/Otros/02.jpg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Otros",
+            "id": "Otros"
         },
-        "precio": 1000
+        "precio": 1000,
+        "descripcion": "Esto es una decripción del producto que se esta mostrando"
     },
     {
-        "id": "pantalon-03",
-        "titulo": "Pantalón 03",
-        "imagen": "./img/pantalones/03.jpg",
+        "id": "Otros-03",
+        "titulo": "Otros 03",
+        "imagen": "./img/Otros/03.jpg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Otros",
+            "id": "Otros"
         },
-        "precio": 1000
+        "precio": 1000,
+        "descripcion": "Esto es una decripción del producto que se esta mostrando"
     },
     {
-        "id": "pantalon-04",
-        "titulo": "Pantalón 04",
-        "imagen": "./img/pantalones/04.jpg",
+        "id": "Otros-04",
+        "titulo": "Otros 04",
+        "imagen": "./img/Otros/04.jpg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Otros",
+            "id": "Otros"
         },
-        "precio": 1000
+        "precio": 1000,
+        "descripcion": "Esto es una decripción del producto que se esta mostrando"
     },
     {
-        "id": "pantalon-05",
-        "titulo": "Pantalón 05",
-        "imagen": "./img/pantalones/05.jpg",
+        "id": "Otros-05",
+        "titulo": "Otros 05",
+        "imagen": "./img/Otros/05.jpg",
         "categoria": {
-            "nombre": "Pantalones",
-            "id": "pantalones"
+            "nombre": "Otros",
+            "id": "Otros"
         },
-        "precio": 1000
+        "precio": 1000,
+        "descripcion": "Esto es una decripción del producto que se esta mostrando"
     }
 ]
